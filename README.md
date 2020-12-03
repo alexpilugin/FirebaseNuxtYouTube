@@ -1,9 +1,10 @@
 # firebase-nuxt
 
-Based on Youtube Tutorial: [https://www.youtube.com/watch?v=TjQsOy-8Wqo](https://www.youtube.com/watch?v=TjQsOy-8Wqo)    
+Based on Youtube Tutorials: [https://www.youtube.com/watch?v=TjQsOy-8Wqo](https://www.youtube.com/watch?v=TjQsOy-8Wqo)  
+[https://www.youtube.com/watch?v=ix22-aX69q](https://www.youtube.com/watch?v=ix22-aX69qo)   
 
 
-> My pet Nuxt.js project for learning different approaches for ssr (server-side rendering) on Firebase
+> My pet Nuxt.js project for learning different approaches for ssr (server-side rendering) on Firebase. This video tutorial doesn't contain information how to make Nuxt SSR on firebase. Have a look comments under second youtube video.
 
 ## Build Setup
 
