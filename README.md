@@ -6,6 +6,9 @@ Based on Youtube Tutorials: [https://www.youtube.com/watch?v=TjQsOy-8Wqo](https:
 
 > My pet Nuxt.js project for learning different approaches for ssr (server-side rendering) on Firebase. This video tutorial doesn't contain information how to make Nuxt SSR on firebase. Have a look comments under second youtube video.
 
+![screenshot of youtube comments](https://github.com/alexpilugin/FirebaseNuxtYouTube/blob/master/git-images/youtube-comments.png "screenshot of youtube comments") 
+
+
 ## Build Setup
 
 ``` bash
