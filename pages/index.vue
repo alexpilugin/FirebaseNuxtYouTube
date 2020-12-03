@@ -1,7 +1,7 @@
 <template>
   <div class="container">
     <div>
-      <h1 class="title">Welcome To Test Login Page</h1>
+      <h1 class="title">Welcome To Test Firebase Application</h1>
     </div>
   </div>
 </template>
@@ -22,7 +22,7 @@ export default {
   min-height: 100vh;
   display: flex;
   justify-content: center;
-  align-items: center;
+  align-items: top;
   text-align: center;
 }
 
@@ -31,7 +31,7 @@ export default {
     'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif;
   display: block;
   font-weight: 300;
-  font-size: 100px;
+  font-size: 4rem;
   color: #35495e;
   letter-spacing: 1px;
 }

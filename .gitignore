@@ -71,6 +71,13 @@ typings/
 # Nuxt generate
 dist
 
+# Firebase cache
+.firebase/
+.firebaserc
+
+# Compiled for Production
+/dist
+
 # vuepress build output
 .vuepress/dist
 
